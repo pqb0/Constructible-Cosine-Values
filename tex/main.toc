@@ -1,0 +1,52 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {section}{\numberline {2}Constructions}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Euclidean Axioms}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Operations}{3}{}%
+\contentsline {section}{\numberline {3}Field Theory}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Polynomials}{4}{}%
+\contentsline {paragraph}{Definition:}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Algebraic Constructions}{5}{}%
+\contentsline {paragraph}{Definition:}{5}{}%
+\contentsline {paragraph}{Definition $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {DummitFoote}}}$:}{5}{}%
+\contentsline {paragraph}{Definition $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {SheldonAxler}}}$:}{5}{}%
+\contentsline {paragraph}{Definition $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {SheldonAxler}}}$:}{6}{}%
+\contentsline {paragraph}{Example:}{6}{}%
+\contentsline {paragraph}{Definition $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {SheldonAxler}}}$:}{6}{}%
+\contentsline {paragraph}{Definition $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {SheldonAxler}}}$:}{6}{}%
+\contentsline {paragraph}{Example:}{6}{}%
+\contentsline {subsection}{\numberline {3.3}Field Extensions}{7}{}%
+\contentsline {paragraph}{Example:}{7}{}%
+\contentsline {paragraph}{Definition $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {DummitFoote}}}$:}{8}{}%
+\contentsline {subsection}{\numberline {3.4}Degree of an Extension}{8}{}%
+\contentsline {paragraph}{Definition $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {SheldonAxler}}}$:}{8}{}%
+\contentsline {paragraph}{Definition $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {TomLeinster}}}$:}{8}{}%
+\contentsline {paragraph}{Example:}{9}{}%
+\contentsline {paragraph}{Theorem (Tower Law) $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {GaloisStewart}}}$:}{9}{}%
+\contentsline {paragraph}{Outline of Proof:}{9}{}%
+\contentsline {paragraph}{Definition:}{9}{}%
+\contentsline {subsection}{\numberline {3.5}Normality}{10}{}%
+\contentsline {paragraph}{Definition $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {GaloisStewart}}}$:}{10}{}%
+\contentsline {paragraph}{Definition $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {GaloisStewart}}}$:}{10}{}%
+\contentsline {paragraph}{Example:}{10}{}%
+\contentsline {paragraph}{Theorem $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {GaloisStewart}}}$:}{10}{}%
+\contentsline {subsection}{\numberline {3.6}Constructible Number Theorem}{11}{}%
+\contentsline {paragraph}{Theorem:}{11}{}%
+\contentsline {paragraph}{Outline of Proof:}{12}{}%
+\contentsline {section}{\numberline {4}Galois Theory}{13}{}%
+\contentsline {subsection}{\numberline {4.1}Galois Groups}{13}{}%
+\contentsline {paragraph}{Theorem $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {GaloisStewart}}}$:}{14}{}%
+\contentsline {paragraph}{Definition $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {GaloisStewart}}}$:}{14}{}%
+\contentsline {paragraph}{Definition $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {Artin}}}$:}{14}{}%
+\contentsline {paragraph}{Example}{15}{}%
+\contentsline {subsection}{\numberline {4.2}Galois Correspondence}{16}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Fundamental Theorem}{17}{}%
+\contentsline {paragraph}{Fundamental Theorem of Galois Theory $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {GaloisStewart}}}$:}{17}{}%
+\contentsline {paragraph}{Outline of the proof:}{18}{}%
+\contentsline {paragraph}{Theorem $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {Artin}}}$:}{18}{}%
+\contentsline {paragraph}{Outline of Proof:}{19}{}%
+\contentsline {section}{\numberline {5}Cyclotomic Polynomials}{19}{}%
+\contentsline {subsection}{\numberline {5.1}Cyclotomic Fields}{19}{}%
+\contentsline {subsection}{\numberline {5.2}Conditions for values of $n$}{19}{}%
+\contentsline {paragraph}{Gauss-Wantzel Theorem $^{\textrm {\footnotesize \blx@tocontentsinit {0}\cite {GaloisStewart}}}$:}{20}{}%
+\contentsline {section}{\numberline {6}Conclusion}{21}{}%
+\contentsline {section}{\numberline {7}References}{21}{}%
